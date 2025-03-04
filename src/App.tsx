@@ -28,7 +28,9 @@ function App() {
         .then(
           (response) => {
             console.log("Email sent successfully!", response);
-            alert("Thank you for signing up! We will contact you soon.");
+            alert(
+              "Thank you for reaching out to us! We will contact you soon."
+            );
             setEmail(""); // Clear input field
           },
           (error) => {

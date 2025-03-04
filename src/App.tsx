@@ -55,7 +55,7 @@ function App() {
             placeholder="Enter your email"
             required
           />
-          <button type="submit">Sign Up</button>
+          <button type="submit">GET IN TOUCH</button>
         </form>
       </div>
     </div>
